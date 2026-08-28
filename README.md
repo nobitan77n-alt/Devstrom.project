@@ -1,2 +1,2 @@
 # Devstrom.project
-for hackathon
+For hackathon
