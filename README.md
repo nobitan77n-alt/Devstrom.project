@@ -1,9 +1,9 @@
 # Devstrom.project
 
-Project Cyan
+Project Password Strength and Breach checker
 
 A short description of the project.
-
+ 
 Features
 Feature 1
 Feature 2
